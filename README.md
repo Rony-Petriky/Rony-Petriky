@@ -1,6 +1,6 @@
 ## olá! eu sou o Rony Petriky ##
-- 🔭 Estou a procura do meu primeiro emprego.
-- 🌱 Atualmente estou estudando DevOps.
+- 🔭 Estou trabalhando na GAVB.
+- 🌱Esse è meu git de projetos pessoais
 
 
 
